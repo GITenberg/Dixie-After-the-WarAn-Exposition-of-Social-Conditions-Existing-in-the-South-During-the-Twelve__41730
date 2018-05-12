@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41328'
     url: http://www.gutenberg.org/2009/agents/41328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41730#Dixie-After-the-WarAn-Exposition-of-Social-Conditions-Existing-in-the-South-During-the-Twelve_
 gutenberg_issued: '2012-12-29'
 gutenberg_type: Text
 identifiers:
