@@ -1,0 +1,31 @@
+_repo: Dixie-After-the-WarAn-Exposition-of-Social-Conditions-Existing-in-the-South-During-the-Twelve__41730
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41730-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Avary, Myrta Lockett
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '41328'
+    url: http://www.gutenberg.org/2009/agents/41328
+description: ''
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41730'
+  lccn: 06029042
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcc 'F206'
+- !lcsh 'Southern States -- Social conditions'
+title: 'Dixie After the War
+
+  An Exposition of Social Conditions Existing in the South, During the Twelve Years
+  Succeeding the Fall of Richmond'
+url: http://www.gutenberg.org/ebooks/41730
